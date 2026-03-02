@@ -1,9 +1,16 @@
 Started commit
 
- # Project name "learning python in a month"
+ # Project name - "learning python"
+
+ Deadline- 1 month
 
  Distribution of time slot
 
- # 1 daily - 1 hr
- # 2 weekly - 6 hr
- # Weekend - Exam 
+ Daily - 1 hr
+ Weekly - 6 hr
+ Weekend - Exam 
+
+
+ # Week 1 Plan 
+
+ Basics (variables, loops, functions)
