@@ -14,3 +14,13 @@ Started commit
  # Week 1 Plan 
 
  Basics (variables, loops, functions)
+
+ Focus on:
+
+Variables
+
+Data types (int, float, string, bool)
+
+Input / print
+
+Simple math operations
