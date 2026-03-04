@@ -24,3 +24,5 @@ Data types (int, float, string, bool)
 Input / print
 
 Simple math operations
+
+
